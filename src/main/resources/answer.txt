@@ -1,0 +1,9 @@
+AAABDDDEEFGGHJKKOPPPPPPQQRRR chain cannot be replaced with AAABDDDEEFFGGHJKKOPPPPPQQRRR chain
+AAABCDDDEEFFGHJKKOPPPPPQQRRR chain cannot be replaced with AAABDDDEEFFGGHJKKOPPPPPQQRRR chain
+AAABCDDDEEFFGHJKKOOPPPPPQRRR chain can be replaced with AAABCDDDEEFFGHJKKOOPPPPPQRRR chain
+AABBCC chain can be replaced with AABBCC chain
+AABBCC chain can be replaced with AABBCC chain
+AABBCC chain can be replaced with AABBCC chain
+AABBCC chain cannot be replaced with AABBCCC chain
+AABBCC chain can be replaced with AABBCC chain
+ABBBCC chain cannot be replaced with AABCCC chain
